@@ -1,4 +1,4 @@
-FROM ubi7/ubi:7.7
+FROM ubi8/ubi
 MAINTAINER lscala@gmail.com
 LABEL description="A basic Apache container on RHEL 7 UBI"
 
