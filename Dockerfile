@@ -1,4 +1,4 @@
-FROM ubi8/ubi
+FROM registry.redhat.io/rhscl/httpd-24-rhel7 
 MAINTAINER lscala@gmail.com
 LABEL description="A basic Apache container on RHEL 7 UBI"
 
